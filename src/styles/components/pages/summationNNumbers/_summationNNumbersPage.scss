@@ -1,0 +1,21 @@
+.induction__method {
+  font-size: 14px;
+  font-style: italic;
+}
+
+.induction__step {
+  display: flex;
+  flex-wrap: wrap;
+
+  margin-bottom: 10px;
+
+  .induction__method {
+    width: 100%;
+  }
+}
+
+.induction__step-header {
+  width: 150px;
+
+  font-weight: bold;
+}
